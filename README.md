@@ -22,7 +22,7 @@ epistemic clientelism, relational epistemology, cognitive dissonance, fiduciary 
 
 ## Cite this work
 
-Kahl, P. (2025). _The applause and the echo: Cognitive Dissonance, Fiduciary trust, and the relational theory of epistemic clientelism_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-Applause-and-the-Echo DOI: https://doi.org/10.5281/zenodo.17412569
+Kahl, P. (2025). _The applause and the echo: Cognitive dissonance, fiduciary trust, and the relational theory of epistemic clientelism_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-Applause-and-the-Echo DOI: https://doi.org/10.5281/zenodo.17412569
 
 ## Publisher & Licence
 
