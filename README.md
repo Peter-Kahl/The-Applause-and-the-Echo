@@ -12,7 +12,7 @@ by Peter Kahl, 2025-10-22
 
 A landmark synthesis bridging psychology, philosophy, and governance, this work **redefines cognition, trust, and truth as one fiduciary process**. It unites micro-level mind dynamics with institutional ethics, offering a parsiphonic model of how societies know, believe, and obey.
 
-This paper begins with a simple scene: a theatre audience applauding a mediocre performance, and a solitary spectator who hesitates to clap. From this moment of hesitation unfolds a multidisciplinary inquiry into cognitive dissonance, fiduciary trust, and the relational theory of epistemic clientelism—a framework explaining how individuals and institutions negotiate truth through interdependence.
+This paper begins with a simple scene: a theatre audience applauding a mediocre performance, and a solitary spectator who hesitates to clap. From this moment of hesitation unfolds a multidisciplinary inquiry into cognitive dissonance, fiduciary trust, and the **relational theory of epistemic clientelism**—a framework explaining how individuals and institutions negotiate truth through interdependence.
 
 Re-examining the classic experiments of **Asch**, **Festinger**, and **Milgram**, the study challenges their shared assumption that reality is fixed and that cognition merely restores alignment to it. Drawing on _Re-founding Psychology as Epistemic Psychology_ (Kahl 2025d), it reconceives dissonance not as an error to be resolved but as an epistemic event—the lived signal that knowledge is relational, contingent, and fiduciary.
 
