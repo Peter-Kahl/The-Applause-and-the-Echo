@@ -2,7 +2,9 @@
 
 ### Cognitive Dissonance, Fiduciary Trust, and the Relational Theory of Epistemic Clientelism
 
-### _Part I of The Fiduciary Architecture of Mind_
+_Part I of The Fiduciary Architecture of Mind_
+
+---
 
 by Peter Kahl, 2025-10-22; v2: 2025-10-25
 
