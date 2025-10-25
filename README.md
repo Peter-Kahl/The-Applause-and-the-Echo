@@ -32,7 +32,7 @@ epistemic psychology, cognitive dissonance, fiduciary trust, relational epistemo
 
 ## Cite this work
 
-Kahl, P. (2025). _What Happens When You Clap? Cognitive dissonance, fiduciary trust, and the relational theory of epistemic clientelism_ (v2). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-Applause-and-the-Echo DOI: https://doi.org/10.5281/zenodo.17412569
+Kahl, P. (2025). _What happens when you clap? Cognitive dissonance, fiduciary trust, and the relational theory of epistemic clientelism_ (v2). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-Applause-and-the-Echo DOI: https://doi.org/10.5281/zenodo.17412569
 
 ## Publisher & Licence
 
