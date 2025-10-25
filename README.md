@@ -6,6 +6,8 @@
 
 by Peter Kahl, 2025-10-22; v2: 2025-10-25
 
+[![Generic badge](https://img.shields.io/badge/DOI-10.5281/zenodo.17440653.svg)](https://doi.org/10.5281/zenodo.17440653)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17440653.svg)](https://doi.org/10.5281/zenodo.17440653) [![Generic badge](https://img.shields.io/badge/ORCID-0009–0003–1616–4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![A pop art illustration in the style of Roy Lichtenstein shows a theatre audience during applause. Rows of blue seats and a red curtain frame the scene. Most people stand and clap enthusiastically, rendered with halftone dots and bold colours of yellow, red, and blue. In contrast, one man in the foreground remains seated, expressionless, his arms limp on the armrests, highlighting individuality and quiet dissent amid collective enthusiasm.](https://github.com/Peter-Kahl/What-Happens-When-You-Clap/blob/main/theatre_dali_2.jpg?raw=true)
