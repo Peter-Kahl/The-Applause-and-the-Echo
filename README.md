@@ -2,7 +2,7 @@
 
 ### Cognitive Dissonance, Fiduciary Trust, and the Relational Theory of Epistemic Clientelism
 
-_Part I of The Fiduciary Architecture of Mind_
+_Part I of the research series The Fiduciary Architecture of Mind_
 
 ---
 
@@ -45,4 +45,4 @@ v2 published in Great Britain by Lex et Ratio Ltd, 2025-10-25.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\
-Licence available at https://creativecommons.org/licenses/by-nc-nd/4.0/ .
+Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/ .
