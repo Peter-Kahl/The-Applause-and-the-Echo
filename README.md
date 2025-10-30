@@ -6,9 +6,9 @@ _Part I of the research series The Fiduciary Architecture of Mind_
 
 ---
 
-by Peter Kahl, 2025-10-22; v2: 2025-10-25
+by Peter Kahl, 2025-10-22; v3: 2025-10-30
 
-[![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17440653-blue.svg)](https://doi.org/10.5281/zenodo.17440653) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
+[![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17412568-blue.svg)](https://doi.org/10.5281/zenodo.17412568) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![A surrealist theatre audience sits in tightly packed rows, clapping in perfect synchrony. Their faces are elongated, expressionless, and nearly identical, rendered in swirling hues of blue, red, and green. At the centre sits a lone man who does not clap; his posture is stiff, his expression vacant, staring ahead as brightly coloured currents swirl overhead. He is the only figure breaking the uniform applause, visually isolated despite being surrounded. This artwork symbolises the moment when applause becomes a social mandate rather than an expression of autonomous judgement. The uniform clapping crowd represents epistemic conformity, where the pressure to align with the collective overrides individual cognition. The solitary non-clapper embodies the epistemic dissenter: one who resists the implicit fiduciary demand to affirm what others affirm. His stillness highlights the dissonance between personal conviction and social expectation, revealing applause not as benign approval but as a mechanism through which institutions create dependency, enforce belonging, and penalise divergence.](https://github.com/Peter-Kahl/What-Happens-When-You-Clap/blob/main/theatre_dali_2.jpg?raw=true)
 
@@ -32,17 +32,22 @@ epistemic psychology, cognitive dissonance, fiduciary trust, relational epistemo
 
 ## Download
 
-- [Download version v2 (PDF)](https://raw.githubusercontent.com/Peter-Kahl/What-Happens-When-You-Clap/master/Kahl_P_What_Happens_When_You_Clap_v2_2025-10-25.pdf) ✅ _latest_
-- [Download version v1 (PDF)](https://raw.githubusercontent.com/Peter-Kahl/What-Happens-When-You-Clap/master/Kahl_P_The_Applause_and_the_Echo_2025-10-22.pdf)
+- [Download version v3](https://raw.githubusercontent.com/Peter-Kahl/What-Happens-When-You-Clap/master/Kahl_P_What_Happens_When_You_Clap_v3_2025-10-30.pdf) ✅ _latest_
+
+## Older Version
+
+- [Download version v2](https://raw.githubusercontent.com/Peter-Kahl/What-Happens-When-You-Clap/master/Kahl_P_What_Happens_When_You_Clap_v2_2025-10-25.pdf)
+- [Download version v1](https://raw.githubusercontent.com/Peter-Kahl/What-Happens-When-You-Clap/master/Kahl_P_The_Applause_and_the_Echo_2025-10-22.pdf)
 
 ## Cite this work
 
-Kahl, P. (2025). _What happens when you clap? Cognitive dissonance, fiduciary trust, and the relational theory of epistemic clientelism_ (v2). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/What-Happens-When-You-Clap DOI: https://doi.org/10.5281/zenodo.17440653
+Kahl, P. (2025). _What happens when you clap? Cognitive dissonance, fiduciary trust, and the relational theory of epistemic clientelism_ (v2). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/What-Happens-When-You-Clap DOI: https://doi.org/10.5281/zenodo.17412568
 
 ## Publisher & Licence
 
 v1 published in London by Lex et Ratio Ltd, 2025-10-22.\
-v2 published in London by Lex et Ratio Ltd, 2025-10-25.
+v2 published in London by Lex et Ratio Ltd, 2025-10-25.\
+v3 published in London by Lex et Ratio Ltd, 2025-10-30.
 
 © 2025 Lex et Ratio Ltd. The author asserts the moral right to be identified as the author of this work and to object to its derogatory treatment. Licensed under Creative Commons BY-NC-ND 4.0. You may share this work for non-commercial purposes with attribution and without modification.\
 Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/ .
