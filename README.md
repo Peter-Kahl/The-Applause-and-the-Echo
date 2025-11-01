@@ -32,12 +32,12 @@ epistemic psychology, cognitive dissonance, fiduciary trust, relational epistemo
 
 ## Download
 
-- [Download version v3](https://raw.githubusercontent.com/Peter-Kahl/What-Happens-When-You-Clap/master/Kahl_P_What_Happens_When_You_Clap_v3_2025-10-30.pdf) ✅ _latest_
+- [Version v3](https://raw.githubusercontent.com/Peter-Kahl/What-Happens-When-You-Clap/master/Kahl_P_What_Happens_When_You_Clap_v3_2025-10-30.pdf) ⬅️ _latest_
 
 ### Older Versions
 
-- [Download version v2](https://raw.githubusercontent.com/Peter-Kahl/What-Happens-When-You-Clap/master/Kahl_P_What_Happens_When_You_Clap_v2_2025-10-25.pdf)
-- [Download version v1](https://raw.githubusercontent.com/Peter-Kahl/What-Happens-When-You-Clap/master/Kahl_P_The_Applause_and_the_Echo_2025-10-22.pdf)
+- [Version v2](https://raw.githubusercontent.com/Peter-Kahl/What-Happens-When-You-Clap/master/Kahl_P_What_Happens_When_You_Clap_v2_2025-10-25.pdf)
+- [Version v1](https://raw.githubusercontent.com/Peter-Kahl/What-Happens-When-You-Clap/master/Kahl_P_The_Applause_and_the_Echo_2025-10-22.pdf)
 
 ## Cite this work
 
