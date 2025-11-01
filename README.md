@@ -6,7 +6,7 @@ _Part I of the research series The Fiduciary Architecture of Mind_
 
 ---
 
-by Peter Kahl, 2025-10-22; v3: 2025-10-30
+by Peter Kahl, 2025-10-22; v4: 2025-11-01
 
 [![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17412568-blue.svg)](https://doi.org/10.5281/zenodo.17412568) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
@@ -14,17 +14,13 @@ by Peter Kahl, 2025-10-22; v3: 2025-10-30
 
 ## Abstract
 
-A landmark synthesis bridging psychology, philosophy, and governance, this work **redefines cognition, trust, and truth as one fiduciary process**. It unites micro-level mind dynamics with institutional ethics, offering a parsiphonic model of how societies know, believe, and obey.
+This study offers a multidisciplinary synthesis bridging psychology, philosophy, and governance. It redefines cognition, trust, and truth as one fiduciary process that links the dynamics of individual minds with the ethics of institutions.
 
-This paper begins with a simple scene: a theatre audience applauding a mediocre performance, and a solitary spectator who hesitates to clap. From this moment of hesitation unfolds a multidisciplinary inquiry into cognitive dissonance, fiduciary trust, and the **relational theory of epistemic clientelism**—a framework explaining how individuals and institutions negotiate truth through interdependence.
+The inquiry begins with a simple scene: a theatre audience applauding a mediocre performance, and one spectator who hesitates to join. From this moment unfolds the _Relational Theory of Epistemic Clientelism_ (RTEC)—an extension of _Epistemic Clientelism Theory_ (ECT) that explains how truth is continually negotiated through trust, recognition, and dependence. The hesitation before applause becomes a micro-experiment in epistemic life, revealing how knowledge arises not from correspondence with an external reality but from fiduciary relations between perceiving minds.
 
-Re-examining the classic experiments of **Asch**, **Festinger**, and **Milgram**, the study challenges their shared assumption that reality is fixed and that cognition merely restores alignment to it. Drawing on _Re-founding Psychology as Epistemic Psychology_ (Kahl 2025d), it reconceives dissonance not as an error to be resolved but as an _epistemic event_—the lived signal that knowledge is relational, contingent, and fiduciary.
+Re-examining the classic experiments of Asch, Festinger, and Milgram, the paper challenges their assumption of fixed reality and recasts dissonance as an epistemic event—the lived signal that knowing is relational and contingent. Drawing on phenomenology, social psychology, fiduciary ethics, and political theory, it argues that truth endures only through candour and collapses when performance replaces sincerity. Micro-acts of recognition, repeated and amplified, generate the macro-structures of authority that govern audiences, universities, corporations, and states.
 
-Building on phenomenology, social psychology, fiduciary ethics, and political theory, the paper argues that truth is not a correspondence but a fiduciary process sustained by candour and threatened by performance. Extending the analysis of _The Epistemic Architecture of Power_ (Kahl 2025n), it shows how micro-acts of recognition reproduce macro-structures of authority. Across eight chapters, the study traces how applause becomes a metaphor for social knowledge: how sound substitutes for understanding, visibility for virtue, and harmony for honesty.
-
-By reinterpreting dissonance as an epistemic event, the paper connects personal hesitation to systemic obedience, showing how the same dynamics govern audiences, universities, corporations, and states. It concludes by proposing _fiduciary pluralism_—a model in which institutions act as trustees of epistemic diversity and citizens cultivate the courage to withhold applause. Ultimately, the work calls for an _ethics of stillness_: the moral discipline of listening before agreeing, of trusting truth enough to let it remain unsynchronised.
-
-This study speaks to **psychologists**, **cognitive neuroscientists**, and **psychiatrists** seeking to understand dissonance beyond pathology; to **philosophers** and **phenomenologists** exploring relational and embodied cognition; to **sociologists** and **political theorists** investigating conformity and obedience; and to **educators**, **institutional leaders**, and **governance scholars** concerned with the ethics of candour and trust in collective knowledge systems. It will also interest those developing **AI and epistemic governance frameworks**, as it models trust and recognition as fundamental architectures of cognition.
+The work concludes with the principle of fiduciary pluralism: institutions must act as trustees of epistemic diversity, while citizens cultivate the courage to withhold applause—the ethics of stillness, the discipline of listening before agreeing. The study addresses scholars and practitioners in psychology, philosophy, sociology, and governance seeking a unified model of cognition and trust, and those designing AI or policy frameworks for epistemic integrity.
 
 ## Keywords
 
@@ -32,10 +28,11 @@ epistemic psychology, cognitive dissonance, fiduciary trust, relational epistemo
 
 ## Download
 
-- [Version v3](https://raw.githubusercontent.com/Peter-Kahl/What-Happens-When-You-Clap/master/Kahl_P_What_Happens_When_You_Clap_v3_2025-10-30.pdf) ✅ _latest_
+- [Version v4](https://raw.githubusercontent.com/Peter-Kahl/What-Happens-When-You-Clap/master/Kahl_P_What_Happens_When_You_Clap_v4_2025-11-01.pdf) ✅ _latest_
 
 ### Older Versions
 
+- [Version v3](https://raw.githubusercontent.com/Peter-Kahl/What-Happens-When-You-Clap/master/Kahl_P_What_Happens_When_You_Clap_v3_2025-10-30.pdf)
 - [Version v2](https://raw.githubusercontent.com/Peter-Kahl/What-Happens-When-You-Clap/master/Kahl_P_What_Happens_When_You_Clap_v2_2025-10-25.pdf)
 - [Version v1](https://raw.githubusercontent.com/Peter-Kahl/What-Happens-When-You-Clap/master/Kahl_P_The_Applause_and_the_Echo_2025-10-22.pdf)
 
@@ -47,7 +44,8 @@ Kahl, P. (2025). _What happens when you clap? Cognitive dissonance, fiduciary tr
 
 v1 published in London by Lex et Ratio Ltd, 2025-10-22.\
 v2 published in London by Lex et Ratio Ltd, 2025-10-25.\
-v3 published in London by Lex et Ratio Ltd, 2025-10-30.
+v3 published in London by Lex et Ratio Ltd, 2025-10-30.\
+v3 published in London by Lex et Ratio Ltd, 2025-11-01.
 
 © 2025 Lex et Ratio Ltd. The author asserts the moral right to be identified as the author of this work and to object to its derogatory treatment. Licensed under Creative Commons BY-NC-ND 4.0. You may share this work for non-commercial purposes with attribution and without modification.\
 Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/ .
